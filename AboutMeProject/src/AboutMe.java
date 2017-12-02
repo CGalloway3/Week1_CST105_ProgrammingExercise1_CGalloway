@@ -3,7 +3,7 @@
 *    File: AboutMe.java
 *    Summary: Programming Exercise 1 problem #2
 *    Author: Chad Galloway
-*    Date: December 1, 2017 
+*    Date: December 1, 2017
 **/
 
 public class AboutMe {
