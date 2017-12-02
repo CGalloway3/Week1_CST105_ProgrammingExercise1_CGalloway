@@ -1,0 +1,2 @@
+# Week1_CST105_ProgrammingExercise1_CGalloway
+Week one exercises
