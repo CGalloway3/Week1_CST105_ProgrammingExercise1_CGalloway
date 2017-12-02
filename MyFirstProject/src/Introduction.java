@@ -1,3 +1,11 @@
+//This is my own work. Chad Galloway
+/**  Program: Introduction
+*    File: Introduction.java
+*    Summary: Programming Exercise 1 problem #3
+*    Author: Chad Galloway
+*    Date: November, 29 2017 
+**/
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
